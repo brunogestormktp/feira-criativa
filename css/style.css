@@ -177,7 +177,7 @@ section { padding: 100px 0; }
 .feirante-card::before {
   content: ""; position: absolute; top: -8px; left: 50%; transform: translateX(-50%);
   width: 116%; max-width: 460px; aspect-ratio: 1 / 1; z-index: -1; pointer-events: none;
-  background: url('../midia/elementos/guarda-sol.png') no-repeat center top;
+  background: url('../midia/elementos/guarda-sol.webp') no-repeat center top;
   background-size: contain;
   filter: drop-shadow(0 8px 14px rgba(40,50,35,.2));
 }
