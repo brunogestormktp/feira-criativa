@@ -2,3 +2,10 @@
 .DS_Store
 node_modules/
 *.log
+
+# Site próprio da doMATO (Dalvana) — repositório independente
+site-domato/
+
+# pasta de trabalho (raws + backups das fotos da Gabriela) — nao vai pro repo
+_fotos-novas-gabriela/
+.DS_Store
